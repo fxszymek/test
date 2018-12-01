@@ -1,0 +1,41 @@
+body{
+  background-color: #FF5722;
+  margin: 0;
+  padding: 0;
+  color: 000000;
+}
+
+.container{
+  margin: 0;
+  padding: 0;
+}
+
+.search{
+  left: 50%;
+
+}
+
+.searchinput{
+  float:right;
+  margin-top: 7px;
+  background:none;
+  border: none;
+  height: 20px;
+  color: white;
+  padding: 0;
+  outline: none;
+
+}
+
+.Searchbutton{
+  float: right;
+  margin-top: 3px;
+  color: #e84118;
+  background: #ffffff;
+  height: 30px;
+  width; 30px;
+  border-radius: 40%;
+  display: flex;
+   border-style: inset;
+
+}
